@@ -43,8 +43,7 @@
 		</td>
 	</tr>
 </table>
-<h4>My Discord Status</h4>
-<a align="center" href="https://discord.com/users/994617436655587400">
+
  
    </a>
 
